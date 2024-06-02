@@ -72,7 +72,7 @@ export default function App() {
   const totalPoints = questions.reduce((prev, cur) => prev + cur.points, 0);
   console.log(totalPoints);
   useEffect(function () {
-    fetch("http://localhost:9000/questions")
+    fetch("https://react-quiz-json-server-4.onrender.com/questions")
       .then((res) => res.json())
       .then((data) => dispatch({ type: "dataReceived", payload: data }))
       .catch((err) => dispatch({ type: "dataFailed" }));

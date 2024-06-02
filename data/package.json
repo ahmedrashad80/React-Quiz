@@ -2,7 +2,7 @@
   "name": "json-server-project",
   "version": "1.0.0",
   "scripts": {
-    "start": "json-server --watch questions.json --port 9000"
+    "start": "json-server --watch questions.json --port ${PORT:-9000} --host 0.0.0.0"
   },
   "dependencies": {
     "json-server": "^0.16.3"
