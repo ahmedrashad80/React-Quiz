@@ -29,6 +29,7 @@ ReactiQuiz is an interactive quiz application built using React that fetches que
 
 - resposive app
   ![alt text](<img/responsive 1.PNG>)
+  /**************\*\*\*\***************
   ![alt text](<img/responsive 2.PNG>)
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
