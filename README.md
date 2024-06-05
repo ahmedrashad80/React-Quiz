@@ -16,10 +16,10 @@ ReactiQuiz is an interactive quiz application built using React that fetches que
   ![alt text](<img/starting exam.PNG>)
 
 - Awards points for correct answers.
-  ![alt text](answer.PNG)
+  ![alt text](img/answer.PNG)
 
 - No points are awarded for incorrect answers.
-  ![alt text](answer2.PNG)
+  ![alt text](img/answer2.PNG)
 
 - Automatically ends the quiz when pressing the "Finish" button or the timer runs out.
   ![alt text](<img/last question.PNG>)
