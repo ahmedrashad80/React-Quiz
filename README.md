@@ -8,33 +8,34 @@ ReactiQuiz is an interactive quiz application built using React that fetches que
 
 <img src="img/loading page.PNG" alt="Home Page" width="400">
 
-
-  ![alt text](<img/loading page.PNG>)
-
   ## <span style="color:red " > Please note: </span> There might be a delay in loading questions due to the API response time. This could be related to issues with the API hosting service (Render or Vercel)._
 
 -Start the quiz
-![alt text](<img/let's start-1.PNG>)
+<img src="img/let's start-1.PNG" alt="Home Page" width="400">
+
 
 - Displays questions one at a time.
-  ![alt text](<img/starting exam.PNG>)
+<img src="img/starting exam.PNG" alt="Home Page" width="400">
+
 
 - Awards points for correct answers.
-  ![alt text](img/answer.PNG)
+<img src="img/answer.PNG" alt="Home Page" width="400">
 
 - No points are awarded for incorrect answers.
-  ![alt text](img/answer2.PNG)
+<img src="img/answer2.PNG" alt="Home Page" width="400">
 
 - Automatically ends the quiz when pressing the "Finish" button or the timer runs out.
-  ![alt text](<img/last question.PNG>)
+<img src="img/last question.PNG" alt="Home Page" width="400">
 
 - Displays the final score at the end of the quiz.
-  ![alt text](<img/the result.PNG>)
+<img src="img/the result.PNG" alt="Home Page" width="400">
 
 - resposive app
+<div style="display: flex; flex-wrap: wrap;">
+  <img src="img/responsive 1.PNG" alt="Home Page" width="400">
+<img src="img/responsive 2.PNG" alt="Home Page" width="400">
+</div>
 
-  ![alt text](<img/responsive 1.PNG>)
-  ![alt text](<img/responsive 2.PNG>)
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
