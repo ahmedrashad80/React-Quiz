@@ -5,6 +5,10 @@ ReactiQuiz is an interactive quiz application built using React that fetches que
 ## Features
 
 - Fetches quiz questions from an external API.
+
+<img src="img/loading page.PNG" alt="Home Page" width="400">
+
+
   ![alt text](<img/loading page.PNG>)
 
   ## <span style="color:red " > Please note: </span> There might be a delay in loading questions due to the API response time. This could be related to issues with the API hosting service (Render or Vercel)._
