@@ -33,8 +33,8 @@ ReactiQuiz is an interactive quiz application built using React that fetches que
 
 - resposive app
 <div style="display: flex; flex-wrap: wrap;">
-  <img src="img/responsive 1.PNG" alt="Home Page" width="400" height="600">
-<img src="img/responsive 2.PNG" alt="Home Page" width="400" height="600">
+  <img src="img/responsive 1.PNG" alt="Home Page" width="400" height="500">
+<img src="img/responsive 2.PNG" alt="Home Page" width="400" height="500">
 </div>
 
 
